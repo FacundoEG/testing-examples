@@ -1,0 +1,4 @@
+packages:
+  - 'jest-tests'
+  - 'vitest-tests'
+  - 'react-testing'

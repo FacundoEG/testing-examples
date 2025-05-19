@@ -1,0 +1,9 @@
+{
+  "name": "testing-examples-monorepo",
+  "private": true,
+  "scripts": {
+    "test:jest": "pnpm --filter jest-tests test",
+    "test:vitest": "pnpm --filter vitest-tests test",
+    "test:testing-library": "pnpm --filter react-testing test"
+  }
+}

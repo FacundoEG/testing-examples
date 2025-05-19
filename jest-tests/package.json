@@ -1,0 +1,13 @@
+{
+  "name": "jest-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0",
+    "ts-jest": "^29.1.0",
+    "@types/jest": "^29.5.2",
+    "typescript": "^5.1.3"
+  }
+}
